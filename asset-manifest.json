@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TejaswiniPujari/alarmClockTask/static/css/main.3e0ca30f.chunk.css",
+    "main.js": "/TejaswiniPujari/alarmClockTask/static/js/main.7b6753a5.chunk.js",
+    "main.js.map": "/TejaswiniPujari/alarmClockTask/static/js/main.7b6753a5.chunk.js.map",
+    "runtime-main.js": "/TejaswiniPujari/alarmClockTask/static/js/runtime-main.611bf037.js",
+    "runtime-main.js.map": "/TejaswiniPujari/alarmClockTask/static/js/runtime-main.611bf037.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/TejaswiniPujari/alarmClockTask/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.05c8cfff.chunk.js": "/TejaswiniPujari/alarmClockTask/static/js/2.05c8cfff.chunk.js",
+    "static/js/2.05c8cfff.chunk.js.map": "/TejaswiniPujari/alarmClockTask/static/js/2.05c8cfff.chunk.js.map",
+    "index.html": "/TejaswiniPujari/alarmClockTask/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/TejaswiniPujari/alarmClockTask/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.3e0ca30f.chunk.css.map": "/TejaswiniPujari/alarmClockTask/static/css/main.3e0ca30f.chunk.css.map",
+    "static/js/2.05c8cfff.chunk.js.LICENSE.txt": "/TejaswiniPujari/alarmClockTask/static/js/2.05c8cfff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.611bf037.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.05c8cfff.chunk.js",
+    "static/css/main.3e0ca30f.chunk.css",
+    "static/js/main.7b6753a5.chunk.js"
+  ]
+}
